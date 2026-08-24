@@ -1,9 +1,2 @@
 # cpp-foundation
-This contains my work in c++ going from a novice/beginner to somewhat a good control of c++
-I have covered or learnt these topics for now 
-Basic c++(Using inbuilt datatypes and then using them to create function take input and return it)
-User Built datatypes 
-Basic Arrays
-Error Handling 
-and I am using tour of c++ 3rd edition for my 1st month and if you have any suggestions or any advice that can help me do not hesitate a second to give it ,it will be very valuable for me
-
+This week i learned about structuring data types using it to create user based data types then defining functions inside them and using class heiarchy to use them ,copying structures and felt like getting myself beaten by a group of people this week in c++ just made me feel complete shit but the knowledge and experience it is invaluable and most of the things are going to get stored better in my brain with time and i used a lot more chatbot this week most of the time chatbot telling me what functions are needed to initialize or create constructor and deconstructor private public and etc .Hoping that next week is slightly relaxed

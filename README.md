@@ -1,9 +1,3 @@
 # cpp-foundation
-This contains my work in c++ going from a novice/beginner to somewhat a good control of c++
-I have covered or learnt these topics for now 
-Basic c++(Using inbuilt datatypes and then using them to create function take input and return it)
-User Built datatypes 
-Basic Arrays
-Error Handling 
-and I am using tour of c++ 3rd edition for my 1st month and if you have any suggestions or any advice that can help me do not hesitate a second to give it ,it will be very valuable for me
-
+This week was more pivoted towards the template ,creating template for containers,functions and in last using string.I am going to be honest I felt the hardest part of c++ has been behind me and looked like its getting easier and My dependency on AI for help will get less and I will make sure at end of month 3/Week 12 i can write the code for targets and learn while making errors of my own
+Thank You for your time
